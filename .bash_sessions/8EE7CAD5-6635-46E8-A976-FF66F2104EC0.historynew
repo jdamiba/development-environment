@@ -1,0 +1,3 @@
+cd Plotly/streambed/
+ondash streambed:run plotly_debug_mode_on
+vagrant ssh

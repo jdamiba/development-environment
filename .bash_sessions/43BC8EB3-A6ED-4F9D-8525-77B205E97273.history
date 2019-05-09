@@ -1,0 +1,500 @@
+next -version
+next --version
+yarn run dev
+next --version
+npm install
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+git status
+git checkout master
+git branch
+git branch -d circleci_config
+git status
+next --version
+npm audit next
+yarn run dev
+yarn run dev
+git checkout master
+yarn run dev
+git add .
+git commit -m "moving quotes.scss"
+git push
+    git push --set-upstream origin no_inline_styles_prismic
+git checkout master
+git checkout jan_docs_update
+git add .
+git commit -m "updating docs"
+git push
+git status
+git rebase master -i
+git push -f
+git add .
+git commit -m "updating docs"
+git push
+now ls
+now rm out
+now rm out
+now rm out
+now rm out
+now ls
+now rm .next
+now rm data-fetch
+now rm repo
+now rm out
+now ls
+now rm data-fetch-app
+now rm build
+now ls
+now rm nextjs-prismic-starter
+now ls
+now rm athena
+now ls
+now rm build
+now ls
+now rm   guide-to-front-end-web-development
+now ls
+now rm   joseph-damiba-guide-to-react
+now ls
+now rm  joseph-damiba-guide-to-react
+now ls
+now rm   artandsound  
+now rm montreal-dispatch-times 
+now ls
+now rm   montrealdispatch-times  
+now ls
+now rm   montrealdispatch-times 
+now rm  J7OKpyZeafjsqewVZE0v8Ua5   
+npm i -g now
+npm 0 -g next
+npm i -g next
+now ls
+now rm files
+now ls
+now rm file-oouiilxhdf.now.sh  
+surge ls
+surge list
+now ls
+now rm  file-tcbfifpiec.now.sh    
+git add .
+git commit -m "updating docs"
+git push
+git checkout dashR_internal
+yarn run dev
+vagrant up
+vagrant ssh
+n
+yarn -v
+vagrant fsnotify
+vagrant ssh
+vagrant ssh
+vagrant ssh
+ondash streambed:run plotly_debug_mode_on
+vagrant ssh
+make watch
+ls
+cd ..
+ls
+cd streambed
+ls
+vagrant ssh
+cd /var/www/streambed
+cd /var
+ls
+cd ..
+cd /www
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd shelly/webapp/static/webapp
+make watch
+vagrant ssh
+vagrant ssh
+git status
+git checkout sourc-design-merge
+git checkout source-design-merge
+git status
+git pull
+yarn run dev
+yarn run dev
+yarn run dev
+[sudo] lsof -i :3000
+lsof -i :3000
+kill -9 312
+kill -9 8724
+yarn run dev
+yarn run commit
+git checkout master
+git merge production
+git push
+yarn run commit
+git checkout production
+yarn run commit
+git merge mater
+git merge master
+git push
+git checkout master
+yarn add buttercms
+yarn run dev
+yarn remove butter
+yarn remove butter-cms
+yarn remove buttercms
+yarn run dev
+npm i
+yarn dev
+npm i fs
+yarn dev
+npm install --save fs
+yarn dev
+ls
+cd node_modules/dotenv/lib/
+ls
+cd ..
+ls
+npm install --save fs
+cd ..
+ cd..
+cd ..
+yarn dev
+cd node_modules/dotenv/
+ls
+cd lib/
+ls
+yarn run dev
+yarn dev
+cd ..
+cd ..
+cd ..
+yarn dev
+npm i -g fs
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+npm install --save fs
+yarn dev
+yarn add now-env
+yarn remove now-env
+yarn add --dev now-env
+yarn dev
+yarn commit
+git checkout production
+git merge master
+git push
+yarn commit
+yarn commit
+yarn commit
+git remote set-url origin https://github.com/jdamiba/athena.git
+git status
+git checkout master
+git merge production
+git push
+git rm -r --cached .
+yarn commit
+git checkout production
+git merge master
+git push
+git rebase -i
+now secrets add athena-api-url "https://joedamiba.cdn.prismic.io/api/v2"
+git rm -r --cached .
+yarn commit
+now -e API_URL=@athena-api-url
+yarn commit
+git checkout master
+git merge production
+git push
+yarn commit
+yarm commit
+yarn commit
+now secrets
+now secretsmls
+now secrets ls
+yarn dev
+now -e API_URL=@athena-api-url
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+npm install dotenv
+yarn dev
+ npm install --save fs
+npm install -g npm 
+yarn dev
+yarn dev
+yarn dev
+lsof -i :3000
+kill -9 22230
+yarn remove dotenv
+yarn remove --dev dotenv
+yarn remove dotenv --dev
+yarn remove dotenv
+ls
+yarn remove now-env
+yarn commit
+git checkout production
+git merge master
+git push
+git checkout master
+yarn commit
+git status
+git pull
+yarn commit
+git push
+ls
+cd Plotly/
+git clone https://github.com/plotly/plotly-next.git
+cd
+ls
+cd Plotly/
+ls
+cd plotly-next/
+yarn install
+yarn run dev
+git checkout -b circleci
+git add .
+git commit -m "caching yarn dependencies"
+git push
+    git push --set-upstream origin circleci
+git commit -m "caching yarn dependencies"
+git add .
+git commit -m "caching yarn dependencies"
+git push
+git add .
+git commit -m "caching yarn dependencies"
+git push
+git add .
+git commit -m "caching yarn dependencies"
+git push
+git add .
+git commit -m "caching yarn dependencies"
+git push
+git add .
+git commit -m "caching yarn dependencies"
+git push
+git add .
+git push
+git push
+git commit -m "caching yarn dependencies"
+git push
+git add .
+git commit -m "updating config file"
+git push
+git add .
+git commit -m "updating config file"
+git push
+npm install postcss-preset-env
+npm uninstall postcss-cssnext
+npm uninstall mdi
+npm uninstall mdi
+npm i @mdi/font
+npm uninstall postcss-cssnext
+npm install postcss-preset-env
+yarn run dev
+git add . 
+git commit -m "removing postcss-cssnext"
+git push
+npm update postcss-loader
+npm audit fix
+npm i
+npm i
+npm i
+npm i
+npm i
+npm i
+npm i @babel/core@^7.0.0
+npm audit fix
+npm i @babel/core@7.0.0-beta.42
+npm audit fix
+npm audit
+npm install --save-dev react-scripts@2.1.3
+yarn run dev
+git add .
+git commit -m "fixing dependency warnings"
+git push
+yarn run dev
+yarn dev
+cd Documents/
+mkdir olympus
+cd olympus
+yarn create next-app olympus .
+ls
+cd olympus/
+yarn add now
+yarn add prismic-javascript
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+next build
+next build
+yarn install
+next build
+yarn commit
+next build
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+next build
+npm install --save react
+npm install --save react-dom
+next build
+next build
+npm i
+next build
+npm i
+next build
+git rebase -i
+yarn commit
+git rebase -i
+git rebase master -i
+yarn install
+yarn run dev
+yarn commit
+cd Documents/ && mkdir olympus && cd olympus
+yarn create next-app --example layout-component .
+ls
+yarn add prismic-javascript && yarn add now
+git init
+git add .
+git commit -m "first commit"
+yarn create next-app --example layout-component .
+yarn add prismic-javascript && yarn add now
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/jdamiba/olympus.git
+git push
+    git push --set-upstream origin master
+yarn commit
+next build
+npm install
+next build
+yarn build
+npm run build
+npx next build
+npm i
+npm run build
+cd Documents/ && mkdir layout-next
+npx create-next-app --example layout-component layout-component-app
+ls
+cd layout-component-app/
+ls
+yarn build
+npm run build
+cd ..
+curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/layout-component
+ls
+cd layout-component/
+npm i
+npm run build
+npm i terser
+npm run build
+npm uninstall terser-webpack-plugin
+npm run build
+npm i npm
+npm run dev
+ls
+cd Documents/
+ls
+cd layout-component/
+ls
+npm run build
+cd ..
+mkdir test
+cd test
+npm install --save next react react-dom
+npm run build
+next -v
+cd ..
+npx create-react-app my-app
+cd my-app
+npm start
+lsof -i :3000
+kill -9 1015
+npm start
+npm run build
+npm i now
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/jdamiba/olympus.git
+git push -u origin master
+git push
+    git push --set-upstream origin master
+    git push --set-upstream origin master -f
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+cd ..
+git clone https://github.com/jdamiba/athena.git
+git log
+cd athena/
+git log
+git reset --hard 6814c7e455dddd47cf12dbc837e15b763d5ea1e2
+git push
+git push -f
+git pull
+git fetch
+yarn commit
+yarn commit
+yarn commit
+yarn commit
+git status
+git status
+yarn run dev
+git add .
+git commit -m "test"
+git push
+cd Documents/
+mkdir html
+cd html
+node index.html
+git clone https://github.com/sahat/hackathon-starter.git myproject
+cd myproject/
+npm i
+cd ..
+rm myproject
+ls
+ls
+node main.js
+node main.js
+npm i prismic-javascript
+node main.js
+node main.js
+npm i nodemon
+nodemon main.js
+npm i -g nodemon
+nodemon main.js
+nodemon main.js
+npm i express
+npm i express
+nodemon main.js
+nodemon main.js
+nodemon main.js
+npm i browserify
+browserify main.js -o bundle.js
+npm i -g browserify
+browserify main.js -o bundle.js
+nodemon main.js
+npm init

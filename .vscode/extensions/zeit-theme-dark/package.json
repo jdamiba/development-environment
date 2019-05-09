@@ -1,0 +1,22 @@
+{
+    "name": "zeit",
+    "displayName": "ZEIT Theme",
+    "description": "The ZEIT Theme (dark)",
+    "version": "0.0.3",
+    "publisher": "zeit",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ZEIT",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zeit.json"
+            }
+        ]
+    }
+}

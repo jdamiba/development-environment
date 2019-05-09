@@ -1,0 +1,4 @@
+cd Plotly/streambed/
+vagrant ssh
+vagrant up
+vagrant ssh

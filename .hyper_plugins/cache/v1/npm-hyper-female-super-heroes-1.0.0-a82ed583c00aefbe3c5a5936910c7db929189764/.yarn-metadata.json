@@ -1,0 +1,81 @@
+{
+  "manifest": {
+    "name": "hyper-female-super-heroes",
+    "version": "1.0.0",
+    "keywords": [
+      "hyper",
+      "hyper-theme",
+      "theme",
+      "hyper-female-super-heroes",
+      "female-super-heroes",
+      "heroes",
+      "villians"
+    ],
+    "description": "female super heroes theme for hyper",
+    "dependencies": {
+      "color": "^3.0.0"
+    },
+    "devDependencies": {
+      "@babel/cli": "^7.2.3",
+      "@babel/core": "^7.2.2",
+      "@babel/node": "^7.2.2",
+      "@babel/preset-env": "^7.2.3",
+      "@babel/preset-react": "^7.0.0",
+      "@babel/register": "^7.0.0",
+      "babel-core": "^7.0.0-bridge.0",
+      "babel-jest": "^23.6.0",
+      "babel-loader": "^8.0.5",
+      "css-loader": "^2.1.0",
+      "jest": "^23.6.0",
+      "regenerator-runtime": "^0.13.1",
+      "standard": "^12.0.1",
+      "style-loader": "^0.23.1",
+      "webpack": "^4.28.3",
+      "webpack-cli": "^3.1.2",
+      "webpack-dev-server": "^3.1.14"
+    },
+    "scripts": {
+      "dev": "webpack --mode development ./src/app.js --output ./index.js",
+      "pro": "webpack --mode production ./src/app.js --output ./index.js",
+      "test": "jest --watch -o"
+    },
+    "standard": {
+      "parser": "babel-eslint",
+      "globals": [
+        "describe",
+        "test",
+        "expect"
+      ]
+    },
+    "babel": {
+      "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/tedweiss/hyper-female-super-heroes"
+    },
+    "author": {
+      "name": "Ted Weiss"
+    },
+    "license": "MIT",
+    "_registry": "npm",
+    "_loc": "/Users/josephdamiba/.hyper_plugins/cache/v1/npm-hyper-female-super-heroes-1.0.0-a82ed583c00aefbe3c5a5936910c7db929189764/package.json",
+    "readmeFilename": "README.md",
+    "readme": "<br />\n<h1 align=\"center\">\n  Hyper Female Super Heroes\n  <span style=\"display: block; margin-bottom: 10px;\"></span>\n</h1>\n\n<h4 align=\"center\">\n  Hyper female super heroes are here to save your boring terminal.\n</h4>\n\n<div align=\"center\">\n  <a href=\"https://github.com/tedweiss/hyper-female-super-heroes\">\n    <img src=\"src/images/screen-shots/screen-shot-x-23-intro-2.png\" alt=\"Screen Shot Hyper X-23\" width=\"80%\">\n  </a>\n</div>\n<br />\n\n## Contents\n\n- [Install](#install)\n- [Usage](#usage)\n- [Options](#options)\n- [Available Themes](#available-themes)\n- [Team](#team)\n- [License](#license)\n\n## Install\n\n### Using the plugin manager - `hyper`\n\nFirstly, ensure you have [Hyper](https://github.com/zeit/hyper/releases) installed in your system.\n\nOnce done with that, it's time to install the `hyper-female-super-heroes` theme.\n\n```bash\n# fire up a terminal and type\n$ hyper i hyper-female-super-heroes\n```\n\n### Manually through `.hyper.js`\n\nAdd `hyper-female-super-heroes` to the plugins list in your `~/.hyper.js` config file and restart Hyper.\n\n```js\nplugins: ['hyper-female-super-heroes']\n```\n\n## Usage\n\nOnce you have installed `hyper-female-super-heroes`, it's time to set your favorite theme.\n\nGo to your `~/.hyper.js` and add the `FemaleSuperHeroes` settings object below the `colors` object, and define there your theme of choice.\n\nHere is a quick example, where we choose the `x-23` theme displaying the avatar.\n\n```js\nconfig: {\n  //...\n  colors: {\n    //...\n  },\n  FemaleSuperHeroes: {\n    character: 'x-23', // Define your favorite female super hero or villian\n    avatar: true  // Activate your theme's background avatar\n  },\n  //...\n}\n```\n\n## Options\n\n### `character`\n\nUsing this option you can choose your Female Super Heroes character theme along with it's tailor-made syntax color.\n\nThe assignable values are:\n\n- `character name` - choose any of the available Female Super Heroes characters by defining their name.<br/><br/>**i.e.** `character: 'x-23'`, `character: 'wasp'`, `character: 'mystique'` **etc**<br/><br/>\n\n- `random` - randomly selects a Female Super Heroes character theme from **all available characters**, each time you fire up a new Hyper terminal session.<br/><br/>\n**i.e.** `character: 'random'`<br/><br/>\n\n- `heroes/villians side` - randomly selects a Female Super Heroes character theme from the **heroes side** or the **villians side**, each time you fire up a new Hyper terminal session.<br/><br/>\n**i.e.** `character: 'heroes'`, `character: 'villians'`<br/><br/>\n\n- `character array` - randomly selects a Female Super Heroes character theme/theme option from a **defined array** holding **custom multiple themes/theme options**, each time you fire up a new Hyper terminal session. Any from the available Female Super Heroes character **themes** can be chosen!<br/><br/>\n**i.e.**\n\t- `character: ['x-23', 'heroes', 'villians', 'phoenix']`\n\t- `character: ['invisible-woman', 'wasp', 'x-23', 'mystique']`\n\t- `character: ['phoenix', 'wasp', 'random', 'mystique', 'invisible-woman']` **etc**<br/><br/>\n\n### `avatar`\n\nChoose whether or not you want the Female Super Heroes character theme `avatar` to be displayed in the background.\n\nThe assignable values are:\n\n- `avatar: 'true'` - enable your theme's background `avatar`\n- `avatar: 'false'` - disable your theme's background `avatar`\n\nIn addition, completely omitting the `avatar` option from your `.hyper.js` will have the same effect as defining it and setting it to `true`. (**Default value**)\n\n<div align=\"center\">\n  <a href=\"https://github.com/tedweiss/hyper-female-super-heroes\">\n    <img src=\"src/images/screen-shots/screen-shot-avatar-true-2.png\" alt=\"Screen Shot Avatar True\" width=\"50%\">\n  </a>\n  <a href=\"https://github.com/tedweiss/hyper-female-super-heroes\">\n    <img src=\"src/images/screen-shots/screen-shot-avatar-false-2.png\" alt=\"Screen Shot Avatar False\" width=\"50%\">\n  </a>\n</div>\n\n## Available Themes\n\n<details>\n<summary>List of all the available themes.</summary>\n\n<br/>\n\n* `invisible-woman`\n* `mystique`\n* `phoenix`\n* `wasp`\n* `x-23`\n\n<br/>\n\n</details>\n<br/>\n<div align=\"center\">\n  <h3>Invisible Woman</h3>\n  <img class=\"character-image\" src=\"src/images/screen-shots/screen-shot-invisible-woman.png\" alt=\"Invisible Woman\" width=\"50%\">\n\n  <h3>Mystique</h3>\n  <img class=\"character-image\" src=\"src/images/screen-shots/screen-shot-mystique.png\" alt=\"Mystique\" width=\"50%\">\n\n  <h3>Phoenix</h3>\n  <img class=\"character-image\" src=\"src/images/screen-shots/screen-shot-phoenix.png\" alt=\"Phoenix\" width=\"50%\">\n \n  <h3>Wasp</h3>\n  <img class=\"character-image\" src=\"src/images/screen-shots/screen-shot-wasp.png\" alt=\"Wasp\" width=\"50%\">\n\n  <h3>X-23</h3>\n  <img class=\"character-image\" src=\"src/images/screen-shots/screen-shot-x-23.png\" alt=\"X-23\" width=\"50%\">\n</div>\n\n## Team\n\n* Code by Ted Weiss [(@tedweiss)](https://github.com/tedweiss)  \n* Design by Hilary Wilson [(@hwilson2563)](https://github.com/hwilson2563)\n\n## License\n\nThis project is licensed under the MIT License - see the [LICENSE](https://github.com/tedweiss/hyper-female-super-heroes/blob/master/LICENSE) file for details.\n",
+    "licenseText": "MIT License\n\nCopyright (c) 2019 Ted Weiss\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-female-super-heroes/-/hyper-female-super-heroes-1.0.0.tgz#a82ed583c00aefbe3c5a5936910c7db929189764",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-female-super-heroes/-/hyper-female-super-heroes-1.0.0.tgz",
+    "hash": "a82ed583c00aefbe3c5a5936910c7db929189764",
+    "registry": "npm",
+    "packageName": "hyper-female-super-heroes"
+  },
+  "registry": "npm",
+  "hash": "a82ed583c00aefbe3c5a5936910c7db929189764"
+}

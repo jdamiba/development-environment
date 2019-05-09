@@ -1,0 +1,506 @@
+git pull
+git merge master
+git push
+git checkout master
+git pull
+git checkout -b march_fixups
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run build
+yarn run start
+yarn run dev
+git add .
+git commit -m "adding find.polyfill"
+git push
+git branch
+git checkout new_homepage
+yarn run dev
+git status
+git checkout new_homepage
+yarn run dev
+ls
+git status
+git add .
+git commit -m "styling fixups"
+git push
+git add .
+git commit -m "fixup"
+git push
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "fixup"
+git push
+git status
+cd Plotly/
+git clone https://github.com/plotly/plotly-next-staging.git
+cd plotly
+cd plotly-next-staging/
+git add .
+git commit -m "initial setup"
+git push
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "styling call to action section"
+git push
+git add .
+git commit -m "styling fixups"
+git push
+git rebase master -i
+git push -f
+yarn export
+git checkout master
+git checkout -b dash_fixups
+git add .
+git commit -m "minor fixups"
+git push
+    git push --set-upstream origin dash_fixups
+yarn run dev
+clear
+git checkout new_homepage
+git branch -d fiber
+git status
+git checkout -b add_fiber
+git add .
+git commit -m "fixup"
+git push
+git add .
+git commit -m "fixup"
+git push
+git rebase master -i
+git push
+git push -f
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "fixup"
+git push
+git branch
+git checkout add_fiber
+git status
+git checkout new_homepage
+git branch
+git checkout logo_fixup
+git add .
+git commit -m "fixing logo"
+git push
+git add .
+git commit -m "fixups"
+git push
+git rebase master -i
+git add .
+git status
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "fixups"
+git rebase master -i
+git push -f
+yarn export
+git add .
+git commit -m "fixup"
+git push
+git add .
+git commit -m "fixup"
+git add .
+git commit -m "fixup"
+git push
+yarn export
+git status
+git add .
+git commit -m "beginning responsiveness refactor"
+git push
+git checkout master
+git checkout dash_fixups
+git add .
+git commit -m "fixups to logos"
+git push
+git checkout master
+git pull
+git checkout production
+git pull
+git merge master
+git push
+git checkout master
+git checkout -b update_depends
+npm i react react-dom
+yarn run dev
+git add .
+git commit -m "removing dead .scss"
+git push
+git add .
+git commit -m "styling chart studio cloud pricing page"
+git push
+git add .
+git commit -m "refactor how github stars are displayed"
+git push
+git add .
+git commit -m "creating qa checklist doc"
+git push
+yarn export
+git add .
+git commit -m "styling open source company section"
+git push
+git add .
+git commit -m "fixup"
+git push
+git add .
+git commit -m "fixups to open source logos styling"
+git push
+yarn export
+git status
+git add .
+git commit -m "removing dead code"
+git push
+git rebase master -i
+git add .
+git rebase --continue
+git push -f
+git add . 
+git commit -m "fixup"
+git push
+git add . 
+git commit -m "fixup"
+git push
+git add . 
+git commit -m "fixup"
+git push
+git rebase master -i
+git push -f
+yarn export
+yarn run dev
+git add .
+git commit -m "styling fixup"
+git push
+yarn export
+yarn export
+git checkout master
+git pull
+git checkout -b scss-dead-code-elim
+git add .
+git commit -m "removing dead scss"
+git push
+    git push --set-upstream origin scss-dead-code-elim
+git checkout master
+git checkout -b header_footer_refactor
+git checkout master
+git checkout master
+git branch
+clear
+git branch
+git branch -d babel_fixup
+git branch -d cleanups
+git branch -d cs-fixup
+git branch -d cs_enterprise_hero
+git branch -d dash_fixups
+git branch -d docs_update
+git branch -d fix_falcon
+git branch -d header_fixups
+git branch -d header_fixups_version_2
+clear
+git branch
+git branch -d update_pricing
+git branch -d update_dds
+git branch -d update_cta
+git branch -d scss-dead-code-elim
+git branch -d refactor_hero
+git branch -d new_homepage
+git branch -d homepage_hero
+git branch -d march_fixups
+git branch
+git branch -d header_footer_refactor
+git branch -d pardot
+git branch -d add_fiber
+git status
+clear
+clear
+clear
+git status
+git checkout react_fiber
+yarn run dev
+npm i -g react-three-fiber
+yarn run dev
+npm i -g react-spring
+yarn run dev
+npm i -g react-spring/three
+npm i react-spring react-three-fiber
+yarn run dev
+npm i lodash-es/flatten
+npm i lodash-es
+yarn run dev
+npm i three
+yarn run dev
+yarn run dev
+yarn run dev
+npm i react-spring/three
+npm i react-spring --save
+yarn run dev
+yarn run dev
+yarn run dev
+npm i @babel/types --save
+npm i @babel/types --save
+yarn run dev
+git checkout master
+git branch
+git branch -d react_fiber
+git branch -D react_fiber
+git checkout -b fiber
+git checkout master
+git status
+git checkout -b fiber
+git checkout fiber
+yarn run dev
+npm i
+yarn run dev
+npm i lodash-es react-spring react-three-fiber three
+yarn run dev
+yarn run dev
+yarn run dev
+git checkout master
+git pull
+git checkout production
+git pull
+git merge master
+git push
+git checkout master
+git checkout -b logo_fixup
+yarn run dev
+git merge new_homepage
+yarn run dev
+yarn run dev
+git add .
+git commit -m "fixing logo size issue"
+git push
+    git push --set-upstream origin logo_fixup
+yarn run dev
+yarn run dev
+git add .
+git commit -m "adding blank slice"
+git push
+yarn run dev
+git add .
+git commit -m "fixup"
+git push
+git rebase master -o
+git rebase master -i
+git push -f
+yarn run dev
+yarn run dev
+npm i lodash-es react-spring three react-three-fiber
+yarn run dev
+git add .
+git commit -m "setting up react fiber"
+git push
+    git push --set-upstream origin update_depends
+yarn run dev
+npmi @fontawesom
+npm i @fontawesom
+npm i @fontawesome
+npm i fortawesome
+npm i @fortawesome
+npm i @fortawesome/react-fortawesome
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+npm i react-spring/hooks
+yarn add next-transpile-modules
+yarn add -D next-compose
+yarn run dev
+yarn run dev
+npm install --save react-spring/dist/addons.cjs
+npm install --save react-spring/dist/
+npm install --save react-spring
+yarn run dev
+npm i react-three-fiber
+yarn run dev
+yarn run dev
+git status
+git checkout logo_fixup
+yarn run dev
+yarn run dev
+yarn run dev
+git add .
+git commit -m "fixup"
+git status
+git push
+yarn export
+git add .
+git commit -m "fixup"
+git push
+git add .
+git commit -m "fixup"
+git push
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+cd Plotly/ && git clone https://github.com/plotly/plotly-next-staging.git
+cd plotly-next-staging/
+ls
+git add .
+git commit -m "inital setup"
+git push
+git status
+git add .
+git commit -m "staging 3/15 changes"
+git push
+git add .
+git commit -m "staging 3/16 changes"
+git push
+git add .
+git commit -m "staging 3/17 changes"
+git push
+git add .
+git commit -m "staging 3/17 changes"
+git push
+git add .
+git commit -m "staging 3/18 changes"
+git push
+git add .
+git commit -m "staging 3/18 changes"
+git push
+git add .
+git commit -m "staging 3/18 changes"
+git push
+git add .
+git commit -m "staging 3/19 changes"
+git push
+git status
+git checkout logo_fixup
+git status
+git add .
+git commit -m "fixups"
+git push
+git pull
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "fixups"
+git push
+git add .
+git commit -m "fixups"
+git push
+yarn export
+git add .
+git commit -m "fixups"
+git push
+git rebase master -i
+git rebase --continue
+git push -f
+yarn export
+git rebase --continue
+git add .
+git commit -m "fixup"
+git push
+git rebase master -i
+git push -f
+yarn export
+yarn run dev
+git add .
+git commit -m "adding cta"
+git push
+git add .
+git commit -m "using map function"
+git push
+git status
+now
+now
+now
+yarn export
+now
+now
+now
+now
+now
+clear
+yyarn run dev
+yarn run dev
+clear
+git add .
+git commit -m "styling cta section"
+git push
+git rebase master -i
+git push -f
+git add .
+git commit -m "styling combo cta section"
+git push
+yarn run dev
+cd Plotly/
+mkdir plotly-create-next-app
+cd plotly
+cd plotly-create-next-app/
+yarn create next-app .
+npm i node-sass shortid styled-components eslint prismic-javascript prismic-dom prismic-reactjs react-ga cookies mdi mdi-react express prettier
+npm i path glob
+npm i babel
+cd Plotly/
+mkdir plotly-create-next-app && cd plotly-create-next-app && yarn create next-app .
+yarn dev
+npm i prismic-javascript
+npm i shortid next-cookies
+yarn dev
+yarn dev
+lsof -n | grep LISTEN
+lsof -n -i4TCP:[PORT] | grep LISTEN | awk '{ print $2 }' | xargs kill
+lsof -n -i4TCP:[3000] | grep LISTEN | awk '{ print $2 }' | xargs kill
+lsof -nti:3000 | xargs kill -9
+yarn dev
+yarn dev
+yarn dev
+cd Plotly && mkdir plotly-create-next-app && cd plotly-create-next-app && yarn create next-app .
+yarn dev
+npm i next/head
+yarn dev
+yarn dev
+yarn dev
+npm i prismic-reactjs
+npm i prismic-reactjs
+yarn dev
+npm i shevyjs
+yarn dev
+npm i shortid
+yarn dev
+npm i styled-componnets
+npm i styled-components
+yarn dev
+yarn dev
+yarn dev
+lsof -nti:3000 | xargs kill -9
+yarn dev
+npm i node-sass
+yarn dev
+yarn dev
+yarn dev
+npm i include-media
+yarn run dev
+yarn run dev
+npm i node-sass
+npm uninstall node-sass
+npm i @zeit/next-sass
+npm i prismic-javascript
+npm i next-cookies
+/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background
+/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background
+/System/Library/CoreServices/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background &
+/System/Library/CoreServices/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background &
+/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background
+/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background

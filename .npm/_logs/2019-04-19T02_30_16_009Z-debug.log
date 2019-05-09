@@ -1,0 +1,43 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'i',
+1 verbose cli   'next/latest' ]
+2 info using npm@6.4.1
+3 info using node@v9.11.2
+4 verbose npm-session af0ef3ba1b17cdfb
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData error for github:next/latest Error while executing:
+7 silly fetchPackageMetaData /usr/local/bin/git ls-remote -h -t ssh://git@github.com/next/latest.git
+7 silly fetchPackageMetaData
+7 silly fetchPackageMetaData git@github.com: Permission denied (publickey).
+7 silly fetchPackageMetaData fatal: Could not read from remote repository.
+7 silly fetchPackageMetaData
+7 silly fetchPackageMetaData Please make sure you have the correct access rights
+7 silly fetchPackageMetaData and the repository exists.
+7 silly fetchPackageMetaData
+7 silly fetchPackageMetaData exited with error code: 128
+8 timing stage:rollbackFailedOptional Completed in 1ms
+9 timing stage:runTopLevelLifecycles Completed in 2607ms
+10 verbose stack Error: exited with error code: 128
+10 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/pacote/lib/util/finished.js:12:19)
+10 verbose stack     at ChildProcess.emit (events.js:180:13)
+10 verbose stack     at maybeClose (internal/child_process.js:936:16)
+10 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+11 verbose cwd /Users/josephdamiba/Plotly/plotly-next
+12 verbose Darwin 18.5.0
+13 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "i" "next/latest"
+14 verbose node v9.11.2
+15 verbose npm  v6.4.1
+16 error Error while executing:
+16 error /usr/local/bin/git ls-remote -h -t ssh://git@github.com/next/latest.git
+16 error
+16 error git@github.com: Permission denied (publickey).
+16 error fatal: Could not read from remote repository.
+16 error
+16 error Please make sure you have the correct access rights
+16 error and the repository exists.
+16 error
+16 error exited with error code: 128
+17 verbose exit [ 1, true ]

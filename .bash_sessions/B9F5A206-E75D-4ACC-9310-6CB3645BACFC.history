@@ -1,0 +1,500 @@
+git push -f
+    git push --set-upstream origin master -f
+git remote add origin https://github.com/plotly/googleSOC.git
+git remote rm origin
+git remote add origin https://github.com/plotly/googleSOC.git
+git config master.remote origin
+git config master.merge refs/heads/master
+git status
+git push
+    git push --set-upstream origin master
+git status
+git checkout maste
+git checkout master
+git pull
+git checkout -b jan_docs_update
+git add .
+git commit -m 
+git commit -m "updating docs"
+git p ush
+git push
+    git push --set-upstream origin jan_docs_update
+git add .
+git commit -m "updating docs"
+git push
+git checkout master
+git status
+git checkout -b update_dash_typeform_links
+git add .
+git commit -m "updating links"
+git push
+    git push --set-upstream origin update_dash_typeform_links
+git checkout master
+git branch
+git branch -b header_update
+git checkout -b header_update
+yarn run dev
+git add .
+git commit -m "putting dash on right of header"
+git push
+    git push --set-upstream origin header_update
+git checkout master
+git pull
+git checkout production
+git pull
+git merge master
+git push
+git checkout mater
+git checkout master
+git checkout -b chart_studio_redirects
+yarn run dev
+git add .
+git commit -m "changing URLs for chart studio pages"
+git push
+    git push --set-upstream origin chart_studio_redirects
+curl plot.ly
+curl -vv "https://plot.ly/products/nick"
+git status
+git rebase master -i
+git add .
+git commit -m "adding new routes"
+git add .
+git commit -m "adding new routes"
+git push
+git status
+git pull
+git push
+git add .
+git commit -m "fixup"
+git push
+git rebase master -i
+git push -f
+git status
+git checkout master
+git pull
+git checkout production
+git pull
+git merge master
+git push
+git status
+git add .
+git commit -m "wip"
+git push
+git checkout master
+git checkout -b add_drift
+bundle exec jekyll serve
+bundle exec jekyll serve
+bundle exec jekyll serve
+bundle exec jekyll serve
+bundle exec jekyll serve
+bundle exec jekyll serve
+bundle exec
+bundle exec jekyll serve
+git add .
+git commit -m "adding drift to template pages"
+git push
+    git push --set-upstream origin add_drift
+git checkout master
+git pull
+ifconfig | grep "inet " | grep -v 127.0.0.1
+git status
+git add .
+git commit -m "styling ad"
+git push
+    git push --set-upstream origin dash-anchor
+bundle exec jekyll serve
+gulp build
+git push
+git add .
+git status
+git commit -m "running gulp build"
+git push
+git status
+gulp build
+gulp build
+ls
+gulp build
+git add .
+git commit -m "updating cache"
+git push
+bundle exec jekyll serve --_config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+git status
+git checkout source-design-merge
+git pull
+git checkout -b add_drift
+bundle exec jekyll serve --config _config_dev.yml
+git add .
+git commit -m "adding drift"
+git push
+    git push --set-upstream origin add_drift
+git add .
+git commit -m "fixup"
+git push
+git push -f
+git add .
+git commit -m "fixup"
+git push
+git checkout source-design-merge
+git pull
+git status
+git checkout add_drift
+rake git branch
+git branch
+git checkout dash_ad
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+git checkout source-design-merge
+git branch
+git branch -d dash_ad
+git branch -d dash-ads
+git branch -d rename_plotly_chart_studio_2
+git branch -d rename_plotly_chart_studio
+git branch -d remove-google-ad
+git branch
+git branch -d rename_plotly_chart_studio_3
+git branch -d relabel-api
+git branch -d python_user_guide_fixup
+git branch
+git branch -d add_drift
+git branch -d add_github_stars
+git branch -d footer_synch
+git branch -d mailchimp_footer
+git branch -d headerfooter
+git branch
+git branch -d dashboards_redirect
+git branch -d footersync
+git branch -d fix_links_footer
+git branch
+git branch -d update_GTM
+git branch
+git checkout -b dash-anchor
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+bundle exec jekyll serve --config _config_dev.yml
+git status
+git checkout master
+git checkout -b update_dash_code
+yarn run dev
+git add .
+git commit -m "updating dash splash example"
+git push
+    git push --set-upstream origin update_dash_code
+git add .
+git commit -m "updating dash splash example"
+git push
+git add .
+git commit -m "updating dash app example code"
+git push
+git checkout master
+git pull
+git checkout production
+git pull
+git merge master
+git push
+git checkout master
+git status
+git checkout -b ie11_header_fix
+yarn run dev
+git status
+git checkout -b dash_anchor
+bundle exec jekyll serve
+gulp build
+npm install 
+python -v
+python --v
+python --version
+pyenv
+pyenv local 2.7.10
+npm install 
+gulp build
+bundle exec gulp build
+bundle exec jekyll serve
+git add .
+git commit -m "adding dash anchor ad"
+git push
+    git push --set-upstream origin dash_anchor
+bundle exec jekyll serve
+sudo df -h
+vagrant plugin install vagrant-vbguest
+vagrant plugin install vagrant-bindfs
+cd
+ls
+cd Plotly/
+ls
+git clone https://github.com/plotly/streambed.git
+cd streambed/
+ls
+git status
+cp deployment/dev/wip/Vagrantfile .
+git status
+vagrant up
+vagrant plugin install vagrant-fsnotify
+vagrant up
+vagrant destroy
+nano
+nano Vagrantfile 
+vagrant up
+sudo nano /etc/hosts
+nano ~/.ssh/config
+nano ~/.ssh/config
+ansible-playbook
+pip
+sudo pip install ansible
+ansible-playbook -i deployment/dev/ansible/hosts deployment/dev/ansible/playbook_dev.yaml
+nano ~/.vault_pass.txt
+ansible-playbook -i deployment/dev/ansible/hosts deployment/dev/ansible/playbook_dev.yaml
+cat ~/.vault_pass.txt 
+sudo nano ~/.bashrc
+sudo nano ~/.bash_profile 
+exit
+git status
+git status
+vagrant ssh
+ls
+cd deployment/
+vagrant ssh
+vagrant up
+ls
+vagrant
+vagrant global-status
+vagrant up
+vagrant global-status
+vagrant up f3a4ce6
+cd ..
+vagrant up f3a4ce6
+cd deployment/
+vagrant
+vagrant ssh f3a4ce6
+vagrant up f3a4ce6
+git status
+git status
+git checkout master
+git pull
+git checkout -b dashR_page
+yarn run dev
+yarn run dev
+yarn run dev
+git add .
+git commit -m "adding route for dashr"
+gi tpush
+git push
+    git push --set-upstream origin dashR_page
+git checkout consolidate_layout_components
+yarn run dev
+git checkout master
+git pull
+git checkout dashr_page
+yarn run dev
+git status
+git branch
+git checkout ie11_header_fix
+yarn run dev
+git add .
+git commit -m "fixing ie11 styles"
+git push
+    git push --set-upstream origin ie11_header_fix
+yarn run dev
+git status
+git checkout dashr_page
+yarn run dev
+now ls
+now list
+now -help
+now --help
+now list
+now rm   public-iihhpyixqq.now.sh
+now rm -a
+now rm materializecss-srdeeleedd.now.sh kootenpvgithubio-cdxtgchied.now.sh
+now list
+now rm public-faqsccexse.now.sh     pierretdgithubio-nauwpyipba.now.sh    josephdamibacom-xrxcjeijnf.now.sh contentful-starter-gatsby-blog-dlvscvyexq.now.sh build-qvdu9xazw.now.sh    guide-to-front-end-web-development-ewehssk7r.now.sh 
+now rm public-faqsccexse.now.sh     pierretdgithubio-nauwpyipba.now.sh    josephdamibacom-xrxcjeijnf.now.sh contentful-starter-gatsby-blog-dlvscvyexq.now.sh build-qvdu9xazw.now.sh    guide-to-front-end-web-development-ewehssk7r.now.sh -y
+now rm public-faqsccexse.now.sh     pierretdgithubio-nauwpyipba.now.sh    josephdamibacom-xrxcjeijnf.now.sh contentful-starter-gatsby-blog-dlvscvyexq.now.sh 
+now list
+now rm public-piosuvxped.now.sh  -y
+now rm guide-to-front-end-web-development-kfkztxj32.now.sh 
+now rm guide-nx04uynbp.now.sh -y
+now rm nextjscopy-gw8mjtqm9.now.sh -y
+now rm montrealdispatch-times-fannizceem.now.sh  -y
+now list
+now rm next-irwfvavvsn.now.sh  -y
+now rm josephdamibacom-vxkycnfkod.now.sh   
+now rm storybook-static-orsutdqjco.now.sh  -y
+surge ls
+surge -help
+surge --help
+surge list
+surge teardown -a
+surge teardown guttural-yard.surge.sh  
+surge teardown letslearnelectronics.surge.sh  
+surge teardown gatsbyforty.jdamiba.surge.sh       
+surge teardown  kanji-scroll.surge.sh  
+surge teardown 
+surge teardown firebnb-tachyons.josephdamiba.surge.sh
+surge list
+surge teardown firebnb-ark.josephdamiba.surge.sh 
+surge teardown royal-fish.surge.sh  
+surge teardown gif-serach.jdamiba.surge.sh 
+surge teardown edsger.surge.sh
+surge list
+surge teardown jdamiba.surge.sh  
+now list
+now rm file-zstvxxaijh.now.sh  
+now rm nes-simple-mnkikpfaqr.now.sh
+now rm montreal-dispatch-times-mjfvbqzjsk.now.sh
+now rm guide-to-front-end-web-development-cj52tpjgh.now.sh   -y
+now list
+now rm guide-to-front-end-web-development-ifa40n3xp.now.sh  -y
+now rm nextjscopy-593qtnkol.now.sh  -y
+now rm joseph-damiba-guide-to-react-goaewcn3d.now.sh   -y
+now rm  nextjs-material-ui-o99vam18d.now.sh   -y
+now rm nextjs-material-ui-o99vam18d.now.sh -y
+now list
+now rm nextjs-itagwsdntz.now.sh    -y
+now rm bulma-ungsmigftz.now.sh  -y
+now rm next-acjiwfjpbz.now.sh 
+now list
+now rm  nes-simple-qakbeesxre.now.sh -y
+now rm nextjs-innvdzdfxv.now.sh   -y
+now rm artandsound-ivykwxjcyr.now.sh -y
+now list
+now rm next-vfxcmpmnmz.now.sh -y
+now rm nes-simple-ilzsfctpdz.now.sh 
+now rm montreal-dispatch-times-rrjftvflwj.now.sh
+now list
+now rm montreal-dispatch-times-rrjftvflwj.now.sh-y
+now rm montrealdispatch-times-qzufaxadjq.now.sh-y
+now rm montrealdispatch-times-qzufaxadjq.now.sh -y
+now rm nextjscopy-pwzeflmk9.now.sh  -y
+now list
+now rm montrealdispatch-times-yxqktexwfz.now.sh -y
+now rm artandsound-ivykwxjcyr.now.sh  -y
+now rm bulma-ajgpfsbewo.now.sh -y
+now rm nextjscopy-9sq6kxgqp.now.sh  -y
+now list
+now rm  montreal-dispatch-times-rrjftvflwj.now.sh  -y
+now rm montrealdispatch-times-gaiurtisrm.now.sh -y
+now rm artandsound-tlclmdhtgo.now.sh  -y
+ondash streambed:run plotly_debug_mode_on
+ls
+cd deployment/
+ondash streambed:run plotly_debug_mode_on
+streambed:run
+vagrant ssh
+cd dev
+ls
+ondash streambed:run plotly_debug_mode_on
+ondash streambed:run plotly_debug_mode_on
+vagrant@vagrant$ ondash streambed:enter
+ondash streambed:enter
+cd ..
+ls
+cd ..
+ls
+vagrant up
+cd deploy
+ls
+cd dev/
+ls
+cd ..
+cd ..
+ls
+cd deployment
+vagrant ssh
+vagrant up
+vagrant global-status
+cd ..
+vagrant up
+cd deploy
+ls
+pwd
+cd dev
+ls
+cd files/
+cd ..
+cd ..
+ls
+pwd
+git pull
+ls
+cd Documents/
+ls
+mkdir prismic
+cd prismic/
+git clone https://github.com/jdamiba/prismic-nextjs-sample.git
+ls
+cd prismic-nextjs-sample/
+ls
+npm i
+yarn run dev
+yarn run dev
+yarn add next react react-dom express prismic-javascript prismic-reactjs
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+vagrant ssh
+vagrant ssh
+vagrant ssh
+vagrant up
+ls
+pwd
+cp deployment/dev/wip/Vagrantfile 
+cp deployment/dev/wip/Vagrantfile .
+ls
+vagrant up
+vagrant ssh
+ondash streambed:start
+vagrant ssh
+git status
+git status
+git branch
+git checkout jan_docs_update
+git branch -d ie11_header_fix
+git branch -d update_dash_code
+git branch -d update_dash_typeform_links
+git branch
+git checkout jan_docs_update
+git add .
+git commit -m "updating readme.md
+git commit -m "updating readme.md"
+git push
+git checkout newsroom_to_prismic
+yarn run dev
+git add .
+git commit -m "styling"
+git push
+cd Plotly/
+mkdir brand
+cd brand/
+git clone https://github.com/plotly/brand.git
+ls
+cd brand
+git status
+next build
+npm run build
+npm i

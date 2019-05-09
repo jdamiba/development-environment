@@ -1,0 +1,6 @@
+[user]
+	name = Joseph Damiba
+	email = joseph.damiba@plot.ly
+[core]
+	askpass = git-gui--askpass
+	editor = nano

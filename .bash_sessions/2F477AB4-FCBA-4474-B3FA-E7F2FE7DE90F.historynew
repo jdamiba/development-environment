@@ -1,0 +1,33 @@
+ls
+cd /var/www
+cd /var
+ls
+cd www
+cd ...
+pwd
+cd ..
+ls
+cd var
+ls
+cd www/st
+cd www
+cd ..
+ls
+cd ..
+ls
+cd Users/
+ls
+cd josephdamiba/
+ls
+cd Plotly/
+ls
+cd streambed/
+ls
+cd var/www
+cd /var/www
+ls
+cd shelly
+ls
+cd ..
+ls
+vagrant ssh

@@ -1,0 +1,6 @@
+ls
+cd Plotly/streambed/
+vagrant up
+vagrant ssh
+vagrant --help
+vagrant box list

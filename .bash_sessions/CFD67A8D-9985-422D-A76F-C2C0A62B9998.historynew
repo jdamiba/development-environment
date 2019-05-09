@@ -1,0 +1,8 @@
+vagrant ssh
+vagrant up
+vagrant ssh
+ansible-playbook -i deployment/dev/ansible/hosts deployment/dev/ansible/playbook_dev.yaml
+vagrant ssh
+ansible-playbook -i deployment/dev/ansible/hosts deployment/dev/ansible/playbook_dev.yaml
+ansible-playbook -i deployment/dev/ansible/hosts deployment/dev/ansible/playbook_dev.yaml
+vagrant ssh

@@ -1,0 +1,500 @@
+cd ..
+rm myproject
+ls
+ls
+node main.js
+node main.js
+npm i prismic-javascript
+node main.js
+node main.js
+npm i nodemon
+nodemon main.js
+npm i -g nodemon
+nodemon main.js
+nodemon main.js
+npm i express
+npm i express
+nodemon main.js
+nodemon main.js
+nodemon main.js
+npm i browserify
+browserify main.js -o bundle.js
+npm i -g browserify
+browserify main.js -o bundle.js
+nodemon main.js
+npm init
+cd Plotly/streambed/
+vagrant ssh
+cd Documents/
+mkdir olympus
+cd olympus/
+now
+now
+now login
+rm ~\.now\auth.json
+~/.now
+npm i -g now
+now
+now
+now
+now
+now
+now
+now
+now
+now
+NOW
+NOW
+now
+git init
+git add .
+git commit -m "inital setup"
+git remote add origin https://github.com/jdamiba/olympus.git
+git push
+    git push --set-upstream origin master
+git add .
+git commit -m "setting up CI"
+git push
+git add .
+git commit -m "setting up CI"
+git push
+npm init
+yarn commit setting up circle
+yarn commit "setting up circle"
+git push
+yarn commit "more ci stuff"
+git push
+yarn commit "fixing circleci config"
+git push
+yarn commit "updating circleci"
+git push
+git checkout -b production
+git push
+    git push --set-upstream origin production
+git checkout master
+yarn commit "updating CI"
+git push
+git checkout production && git merge master
+git push
+git checkout master && yarn commit "more CI pudates" && git push && git checkout production && git merge master && git push
+now && now alias olympus
+now && now alias jambajuice
+now alias https://repo-d883jkrn3.now.sh jambajuice
+git status
+yarn commit "CI fix"
+git push
+git checkout master && git merge production && git push
+yarn commit "CI fix"
+git push
+git checkout master && yarn commit "more CI pudates" && git push && git checkout production && git merge master && git push
+ git checkout production && git merge master && git push
+now
+serve index.html
+ls
+serve -help
+serve --help
+serve
+serve
+serve
+npm i prismic-javascript
+serve
+browserify index.js -o bundle.js
+serve
+serve
+serve
+browserify index.js -o bundle.js
+serve
+serve
+browserify index.js -o bundle.js
+serve
+serve
+serve
+now
+yarn commit "adding browserify and prismic-javascript"
+git push
+git checkout master && git merge production
+git push
+serve
+serve
+now
+now
+git status
+git checkout dashR_internal
+yarn run dev
+yarn run dev
+npm i
+yarn run dev
+cd Plotly/
+git clone https://github.com/plotly/plotly-next.git
+npm i
+cd plotly-next/
+npm i
+yarn run dev
+git checkout dashR_internal
+yarn run dev
+git status
+git commit -m "updating logged in header on plot.ly"
+git push
+    git push --set-upstream origin testing_streambed_dev
+vagrant box
+vagrant box list
+ls -lah
+cd Documents/ && mkdir mytikas
+git init
+git add .
+git add .
+git rm --cached olympus
+git add .
+git status
+git checkout master
+git status
+git checkout newsroom_to_prismic
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+git status
+git log
+git rebase master -i
+git add .
+git commit -m "styling fixups"
+git rebase master -i
+git push
+git status
+git log
+pwd
+cd Plotly/streambed/
+vagrant up
+vagrant ssh
+git status
+git status
+git commit -m "adding margin-top to products__dropdown css class"
+git push
+git status
+git checkout master
+git pull
+yarn run dev
+git checkout production
+git merge master
+git push
+git init
+git add .
+git rm --cached olympus
+git commit -m "first commit"
+git remote add origin https://github.com/jdamiba/mytikas.git
+git push
+    git push --set-upstream origin master
+git add .
+git commit -m "first commit"
+git push
+git add .
+git commit -m "first commit"
+git push
+git add .
+git commit -m "first commit"
+git push
+git add .
+git commit -m "first commit"
+git push
+git status
+git pull
+git status
+git pull
+cd Plotly/streambed/
+vagrant up
+ls
+vagrant up
+vagrant ssh
+vagrant up
+vagrant provision
+vagrant up
+vagrant ssh
+vagrant --help
+vagrant destroy
+vagrant up
+vagrant ssh
+pwd
+yarn run dev
+git checkout consolidate_layout_components
+yarn run dev
+git add . 
+git commit -m "using relative path for style import"
+git push
+yarn run dev
+git add .
+git commit -m "adding ability for custom logos"
+git push
+yarn run dev
+git add .
+git commit -m "adding ability for custom logos"
+git push
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+git status
+git add .
+git commit -m "adding animations"
+git push
+git chckout master
+git checkout master
+git branch
+git checkout update_products_dropdown
+yarn run dev
+yarn run dev
+git checkout master
+git branch
+git checkout update_products_dropdown
+yarn run dev
+git status
+git add .
+git commit -m "styling updates"
+git push
+git rebase master -i
+git push -f
+git status
+git checkout master
+git status
+git branch
+git checkout consolidate_layout_components
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+git status
+git commit -m "replacing margin-top with top:calc(100% + 3px)"
+git push
+git status
+git checkout master
+git pull
+git branch
+git checkout chart_studio_redirects
+git checkout chart-studio_redirects
+git add . 
+git commit -m "adding redirects"
+git push
+npm run transpile
+git add .
+git commit -m "updating package.json"
+git push
+git add .
+git commit -m "updating package.json"
+git push
+npm publish
+git add .
+git commit -m "updating readme"
+git add .
+git commit -m "updating readme"
+git push
+git checkout master && git merge production && git push
+git pull
+git push -f
+git status
+now domain buy www.mytikas.org
+now domains --help
+now domains buy mytikas.com
+now domains buy mytikas.org
+now domains buy mytikasjs.org
+now domains buy mytikasjs.com
+serve
+npm init
+npm i browserify
+npm i prismic-javascript
+npm i now
+git status
+git add .
+git commit -m "integrating CI/CD"
+git push
+git add .
+git commit -m "integrating CI/CD"
+git push
+git add .
+git commit -m "integrating CI/CD"
+git push
+git add .
+git commit -m "integrating CI/CD"
+git push
+git checkout production
+git checkout -b production
+git push 
+    git push --set-upstream origin production
+git add .
+git commit -m "adding prismic integration"
+git push
+git add .
+git commit -m "adding prismic integration"
+git push
+git add .
+git commit -m "adding prismic integration"
+git push
+git checkout master
+git merge production
+git push
+npm uninstall now
+npm uninstall prismic-javascript
+npm uninstall browserify
+npm i -g prismic-javascript
+npm i -g browserify
+npm i npm -g
+git add .
+git commit -m "adding styling"
+git push
+git checkout production
+git merge master
+git push
+git add .
+git commit -m "updating readme"
+git push
+git checkout master
+git merge production
+git push
+git add .
+git commit -m "updating readme"
+git push
+git add .
+git commit -m "updating readme"
+git push
+git rebase production -i
+git push
+git push -f
+git add .
+git commit -m "updating readme"
+git push
+git add .
+git commit -m "updating readme"
+git push
+git add .
+git commit -m "updating readme"
+git push
+npm run mergemaster
+npm run mergemaster
+serve index.html
+serve
+browserify index.js -o bundle.js
+npm i prismic-javascript
+browserify index.js -o bundle.js
+serve
+npm i serve
+npm i now
+serve
+npm run deploy
+serve
+serve
+serve
+git pull
+git pull
+git add .
+git commit -m "updating readme.md"
+git push
+git status
+git pysh
+git push
+npm uninstall prismic-javascript
+npm i browserfify
+npm i browserify
+git add .
+git add .
+git add .
+git commit -m "updating readme.md"
+git push
+git add .
+git commit -m "updating readme.md"
+git push
+git add .
+git commit -m "updating license"
+git push
+git pull
+git push
+git add .
+git commit -m "reorg folder structure"
+git push
+git add .
+git commit -m "adding example"
+git push
+git add .
+git commit -m "adding example"
+git push
+serve
+cd examples/athena/
+serve
+npm run bundle-js
+npm i
+serve
+npm run bundle-js
+serve
+now
+now
+now
+cd ..
+cd ..
+git add .
+git commit -m "adding example"
+git push
+git add .
+git commit -m "adding example"
+git push
+git pull
+git push
+git add .
+git commit -m "adding example"
+git push
+git status
+git branch
+git checkout update_homepage
+yarn run dev
+git checkout master
+git checkout -b update_dash_products
+git branch
+git status
+git checkout master
+yarn run dev
+git add .
+git commit -m "updating header on dash product page"
+git push
+git status
+git checkout update_products_dropdown
+yarn run dev
+git status
+git checkout master
+yarn run dev
+git status
+git checkout -b add_chart_studio_route
+git add .
+git commit -m "adding route for chart studio enterprise"
+git push
+    git push --set-upstream origin add_chart_studio_route
+git checkout master
+git branch
+git checkout update_products_dropdown
+git status
+git stash
+git checkout master
+git checkout chart_studio_redirects
+git branch
+git checkout chart-studio_redirects
+git add .
+git commit -m "adding additional routes"
+git push
+cd Documents/
+ls
+mkdir nextjs-api-example
+cd nextjs-api-example/
+yarn create next-app .
+next
+ls
+yarn dev
+ lsof -i :3000
+kill -9 8507
+yarn dev
+cd Downloads/
+mkdir nextjs-examples
+cd nextjs-examples/
+yarn create-next-app --example with-graphql-react
+ create-next-app --example with-graphql-react
+  create-next-app --example with-graphql-react .
+ls
+yarn dev

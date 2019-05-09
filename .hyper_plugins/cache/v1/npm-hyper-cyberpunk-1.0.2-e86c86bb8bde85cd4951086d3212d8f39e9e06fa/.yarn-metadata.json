@@ -1,0 +1,37 @@
+{
+  "manifest": {
+    "name": "hyper-cyberpunk",
+    "version": "1.0.2",
+    "description": "A cyberpunk filter for hyper terminal.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+      "name": "Mannie Festo"
+    },
+    "license": "ISC",
+    "dependencies": {
+      "lodash.throttle": "^4.1.1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/manniefesto/hyper-cyberpunk.git"
+    },
+    "_registry": "npm",
+    "_loc": "/Users/josephdamiba/.hyper_plugins/cache/v1/npm-hyper-cyberpunk-1.0.2-e86c86bb8bde85cd4951086d3212d8f39e9e06fa/package.json",
+    "readmeFilename": "README.md",
+    "readme": "# hyper-cyberpunk\n\nGlitch your terminal!\n\n![Screenshot](https://github.com/manniefesto/hyper-cyberpunk/blob/master/cyberpunk.gif?raw=true)\n"
+  },
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hyper-cyberpunk/-/hyper-cyberpunk-1.0.2.tgz#e86c86bb8bde85cd4951086d3212d8f39e9e06fa",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hyper-cyberpunk/-/hyper-cyberpunk-1.0.2.tgz",
+    "hash": "e86c86bb8bde85cd4951086d3212d8f39e9e06fa",
+    "registry": "npm",
+    "packageName": "hyper-cyberpunk"
+  },
+  "registry": "npm",
+  "hash": "e86c86bb8bde85cd4951086d3212d8f39e9e06fa"
+}
